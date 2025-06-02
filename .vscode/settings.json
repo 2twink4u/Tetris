@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Tetris.sln"
+    "dotnet.defaultSolution": "Tetris.sln",
+    "dotnet.preferCSharpExtension": true
 }
