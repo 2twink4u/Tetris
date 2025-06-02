@@ -36,7 +36,8 @@ public class Ghost : MonoBehaviour
 
     private void Copy()
     {
-        for (int i = 0; i < cells.Length; i++) {
+        for (int i = 0; i < cells.Length; i++)
+        {
             cells[i] = trackingPiece.cells[i];
         }
     }
